@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 19 Aug 2024 00:26:25 at https://dsathemes.com/html/martex_1.1/files/demo-4.html# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dsathemes.com/html/martex_1.1/files/demo-4.html# -O1 "C:\Users\ASUS\Desktop\rezaaa\11111111111111111\rezaaaa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:27:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://dsathemes.com/html/martex_1.1/files/images/blog/post-2-img.jpg (from https://dsathemes.com/html/martex_1.1/files/demo-4.html)
+00:27:58	Error: 	"Not Found" (404) at link https://dsathemes.com/html/martex_1.1/files/css/owl.video.play.png (from https://dsathemes.com/html/martex_1.1/files/css/owl.carousel.min.css)
+00:27:58	Error: 	"Not Found" (404) at link https://dsathemes.com/html/martex_1.1/files/images/pattern-05.png (from https://dsathemes.com/html/martex_1.1/files/css/pink-theme.css)
+00:27:58	Error: 	"Not Found" (404) at link https://dsathemes.com/html/martex_1.1/files/images/bg-06.jpg (from https://dsathemes.com/html/martex_1.1/files/css/pink-theme.css)
+00:27:58	Error: 	"Not Found" (404) at link https://dsathemes.com/html/martex_1.1/files/images/bg-07.jpg (from https://dsathemes.com/html/martex_1.1/files/css/pink-theme.css)
+00:27:58	Error: 	"Not Found" (404) at link https://dsathemes.com/html/martex_1.1/files/images/bg-08.jpg (from https://dsathemes.com/html/martex_1.1/files/css/pink-theme.css)
+00:27:58	Error: 	"Not Found" (404) at link https://dsathemes.com/html/martex_1.1/files/images/reset-password-dark.jpg (from https://dsathemes.com/html/martex_1.1/files/css/pink-theme.css)
+00:28:02	Warning: 	Retry after error -4 (No data (connection closed)) at link https://dsathemes.com/html/martex_1.1/files/images/logo-black.png (from https://dsathemes.com/html/martex_1.1/files/career-role.html)
+00:28:02	Error: 	"Not Found" (404) at link https://dsathemes.com/html/martex_1.1/files/testimonials.html (from https://dsathemes.com/html/martex_1.1/files/integrations.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 37 seconds : 291 links scanned, 281 files written (12376526 bytes overall) [8641887 bytes received at 89091 bytes/sec], 4887656 bytes transferred using HTTP compression in 75 files, ratio 18%, 24.2 requests per connection
+(7 errors, 2 warnings, 0 messages)
